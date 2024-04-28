@@ -1,0 +1,3 @@
+[submodule "demo_git_second"]
+	path = demo_git_second
+	url = https://github.com/SB2318/demo_git_second.git
